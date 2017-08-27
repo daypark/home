@@ -16,7 +16,7 @@
 
 ### demo
 
-  * http://www.photomon.com/editor/next/photobook_guest.html
+  * [photobook] http://www.photomon.com/editor/next/photobook_guest.html
 
 
 ### history
