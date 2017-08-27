@@ -16,8 +16,8 @@
 
 ### demo
 
-* [photomon web editor] (http://www.photomon.com/editor/next/photobook_guest.html)
-* [photomon ios app] (https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
+* [photomon web editor](http://www.photomon.com/editor/next/photobook_guest.html)
+* [photomon ios app](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
 
 
 ### history
