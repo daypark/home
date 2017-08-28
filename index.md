@@ -16,16 +16,17 @@
 
 ### demo
 
-* [photomon web editor](http://www.photomon.com/editor/next/photobook_guest.html)
-* [photomon ios app](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
+* [포토몬 웹편집기](http://www.photomon.com/editor/next/photobook_demo.html)
+* [텍스트 편집기](http://www.photomon.com/editor/next/xedit/xeditor_demo.html)
+* [포토몬 iOS 앱](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
 
 
 ### history
 
 * 메이비원 (2015.01 ~)
   - 웹용 텍스트편집기, 포토북/캘린더편집기 개발
+  - 포토몬 iOS 앱 개발
   - html5/canvas, javascript, jquery, react, webpack
-  - 포토몬 앱 개발
   - ios, objective-c
 
 * 티오디모바일 (2006.10 ~ 2014.06)
@@ -43,6 +44,10 @@
 * 한메소프트 (1997.01 ~ 1998.02)
   - 수식편집기 개발
   - windows, vc++
+
+### e-mail
+
+* daypark@gmail.com
 
 ## ref
 
