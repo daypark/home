@@ -17,7 +17,7 @@
 ### demo
 
 * [포토몬 웹편집기](http://www.photomon.com/editor/next/photobook_demo.html)
-* [텍스트 편집기](http://www.photomon.com/editor/next/xedit/xeditor_demo.html)
+* [텍스트 편집기](http://www.photomon.com/editor/next/_temp/xeditor_demo.html)
 * [포토몬 iOS 앱](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
 
 
