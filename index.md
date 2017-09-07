@@ -18,6 +18,7 @@
 
 * [포토몬 웹편집기](http://www.photomon.com/editor/next/photobook_demo.html)
 * [텍스트 편집기](http://www.photomon.com/editor/next.common/xeditor_demo.html)
+* [이미지 편집기](http://www.photomon.com/editor/next.common/ximagebox_demo.html)
 * [포토몬 iOS 앱( ~ ver 2.0.49)](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
 
 
