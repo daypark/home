@@ -1,6 +1,6 @@
 ## Profile
 
-### favorite
+### skills
 
 * Web
   - html5/canvas, javascript, jquery, react, webpack, (electron)
@@ -22,7 +22,7 @@
 * [포토몬 iOS 앱( ~ ver 2.0.49)](https://itunes.apple.com/kr/app/포토몬/id723333895?mt=8)
 
 
-### history
+### career
 
 * 메이비원 (2015.01 ~)
   - 웹용 텍스트편집기, 포토북/캘린더편집기 개발
