@@ -1,14 +1,14 @@
 ## Profile
 
-### favorates
-
-* Mobile
-  - ios, objective-c.
-  - (react-native).
+### favorite
 
 * Web
   - html5/canvas, javascript, jquery, react, webpack, (electron)
   - (node.js)
+
+* Mobile
+  - ios, objective-c.
+  - (react-native).
 
 * Windows
   - c/c++, windows api, visual c++ / mfc.
@@ -39,7 +39,7 @@
   - windows, vc++
 
 * 다울소프트 (1998.03 ~ 2005.01)
-  - 문제은행, 텍스트편집기 개발
+  - 문제은행, 워드프로세서 컴포넌트 개발
   - windows, vc++
 
 * 한메소프트 (1997.01 ~ 1998.02)
