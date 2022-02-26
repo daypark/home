@@ -2,53 +2,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>daypark.pe.kr</title>
+    <title>bluto demo</title>
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <script type="text/javascript" src="build/arachi.1.js"></script>
-    <script type="text/javascript" src="build/arachihost.1.js"></script>
   </head>
   <body>
-    <div class="layout">
-      <div class="header">daypark canvas</div>
-      <div class="navbar">
-        <div id="buttonZoomIn" class="button"><a href="#">+</a></div>
-        <div id="buttonZoomOut" class="button"><a href="#">-</a></div>
-        <div id="buttonZoomOrg" class="button"><a href="#">1:1</a></div>
-        <div id="buttonZoomFit" class="button"><a href="#">fit</a></div>
-        <div id="buttonHorz" class="button" style="width: 80px;"><a href="#">가로쓰기</a></div>
-        <div id="buttonVert" class="button" style="width: 80px;"><a href="#">세로쓰기</a></div>
-        <div id="buttonVMix" class="button" style="width: 80px;"><a href="#">세로혼합</a></div>
-      </div>
-      <div class="content">
-        <canvas id="arachi_canvas">Canvas not supported.</canvas>
-      </div>
-    </div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root" style="height: 100%"></div>
+    <script type="text/javascript" src="build/bluto.1.js"></script>
   </body>
-  <script>
-    var demo = new arachihost.iCanvasController("arachi_canvas", 1000, 800);
-    demo.fitScale();
-
-    document.getElementById("buttonHorz").onclick = function () {
-      demo.addNewTextLayer(0);
-    };
-    document.getElementById("buttonVert").onclick = function () {
-      demo.addNewTextLayer(1);
-    };
-    document.getElementById("buttonVMix").onclick = function () {
-      demo.addNewTextLayer(2);
-    };
-    document.getElementById("buttonZoomIn").onclick = function () {
-      demo.setScale(demo.getScale() + 0.02);
-    };
-    document.getElementById("buttonZoomOut").onclick = function () {
-      demo.setScale(demo.getScale() - 0.02);
-    };
-    document.getElementById("buttonZoomOrg").onclick = function () {
-      demo.setScale(1.0);
-    };
-    document.getElementById("buttonZoomFit").onclick = function () {
-      demo.fitScale();
-    };
-  </script>
 </html>
