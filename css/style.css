@@ -1,0 +1,71 @@
+.layout {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  font-family: "Nanum Barun Gothic";
+  font-size: 14px;
+}
+.header {
+  position: relative;
+  height: 32px;
+  padding-left: 10px;
+  border-bottom: 1px solid #cacaca;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.navbar {
+  position: relative;
+  height: 32px;
+  padding-left: 10px;
+  border-bottom: 1px solid #cacaca;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.content {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #dddddd;
+  overflow: auto;
+}
+
+.content_canvas {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #dddddd;
+  overflow: auto;
+}
+
+/* button */
+.button {
+  display: block;
+  width: 22px;
+  height: 22px;
+  padding-top: 2px;
+  margin-right: 10px;
+  border: 1px solid #d7d7d7;
+  background: #fcfcfc;
+
+  text-align: center;
+  font-size: 14px;
+}
+.button a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #555555;
+}
+.button a:hover {
+  color: #ff0000;
+}
