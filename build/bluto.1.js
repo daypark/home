@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "4cca235304dd736ccd58";
+/******/ 	var hotCurrentHash = "8252ed9c562f20f8e8a3";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -40878,8 +40878,8 @@ function App() {
   };
 
   var onImageBox = function onImageBox() {
-    var photo_url = "assets/_cat.png";
-    var mask_url = "assets/_mask01.png";
+    var photo_url = "assets/a-dog.jpg";
+    var mask_url = "assets/a-mask.png";
     demo.addNewImageLayer(100, 100, 200, 200, photo_url, mask_url);
   };
 
